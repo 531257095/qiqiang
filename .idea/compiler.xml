@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="home-api" />
+        <module name="home-api-impl" />
+        <module name="home-cache" />
+        <module name="home-common" />
+        <module name="home-dao" />
+        <module name="home-deploy" />
+        <module name="home-intergration" />
+        <module name="home-service" />
+        <module name="home-spi" />
+        <module name="home-test" />
+        <module name="home-utils" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
