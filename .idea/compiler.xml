@@ -17,6 +17,7 @@
         <module name="home-spi" />
         <module name="home-test" />
         <module name="home-utils" />
+        <module name="home-web" />
       </profile>
     </annotationProcessing>
   </component>
